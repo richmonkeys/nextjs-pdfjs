@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@richmonkeys/parse-body": "^1.0.4",
     "next": "11.x",
     "pdfjs-dist": "^2.8.335",
     "react": "17.x",
